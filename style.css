@@ -1,0 +1,35 @@
+.cal{
+    margin:auto;
+    text-align:center ;
+    border: 10px solid black ;
+    height: 320px;
+    width:280px;
+    background-color:black;
+}
+table{
+    margin: auto;
+}
+input{
+    margin:auto;
+    height: 35px;
+    width:242px;
+    border:5px solid black;
+}
+button{
+    background-color: gray;
+    text-align: center;
+    height:50px;
+    width:59px;
+    font-size: 25px;
+    color:white;    
+}
+.ac{
+    color:red;
+    height:40px;
+    margin-bottom: 15px;
+
+}
+
+
+
+
