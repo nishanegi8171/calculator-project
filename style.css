@@ -1,19 +1,21 @@
 body{
-    background-color: blanchedalmond;
+    background-image:url("bckgrd.jpg");
+    background-size: 100%;
 }
 h1{
-    color:red;
+    color:rgb(28, 12, 248);
     text-align: center;
+    font-size:3vw;
 
 }
 
-.cal{
+.calc{
     margin:auto;
     text-align:center ;
-    border: 10px solid black ;
+    border: 10px solid rgb(36, 65, 197); ;
     height: 360px;
     width:300px;
-    background-color:black;
+    background-color:rgb(36, 65, 197);
     border-radius: 9px;
 }
 table{
@@ -25,7 +27,8 @@ input{
     margin:auto;
     height: 38px;
     width:285px;
-    border:5px solid black;
+    border:5px solid rgb(36, 65, 197);;
+    text-align: right;
     
 }
 button{
@@ -38,8 +41,13 @@ button{
     color:white;   
     border: 3px solid white; 
 }
+
+button:hover{
+    color:rgb(26, 14, 14);   
+
+}
 .ac{
-    color:red;
+    color:rgb(236, 60, 6);
     height:40px;
     margin-bottom: 15px;
 
